@@ -1,4 +1,4 @@
-<h1 align="center">Covid-19 Detection using CNN</h1>
+<h1 align="center">IMAGE CLASSIFICATION IN HEALTHCARE</h1>
 
 <p align="center">A Convolutional Neural Network (CNN) based project for classifying chest X-Rays as Covid-19 positive or negative.</p>
 
@@ -27,7 +27,7 @@ The CNN model is trained on the dataset using Google Colab. The code for model t
 
 
 ## Usage
-1. Open the Anaconda Powershell Prompt & navigate to the project directory, for example `cd C:\Users\example\Documents\folder\Covid-19-Detection-Using-CNN`
+1. Open the Anaconda Powershell Prompt & navigate to the project directory, for example `cd C:\Users\example\Documents\folder\Covid-19-Detection`
 2. Start the Flask web application: `python app.py`
 3. Access the web application at `http://localhost:5000` in your web browser.
 4. Upload a chest X-Ray image to the web application and click on the "Predict!" button.
