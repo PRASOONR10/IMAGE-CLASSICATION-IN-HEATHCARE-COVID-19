@@ -15,7 +15,7 @@ This project aims to develop a model using Convolutional Neural Networks (CNN) t
 ## Getting Started
 To set up this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/AbhinavBahuguna2002/Covid-19-Detection-Using-CNN`
+1. Clone the repository: `git clone https://github.com/PRASOONR10/IMAGE-CLASSICATION-IN-HEATHCARE-COVID-19-`
 2. Navigate to the project directory: `cd C:\Users\example\Documents\folder\Covid-19-Detection-Using-CNN`
 3. Make sure you have installed the required dependencies `pip install -r requirements.txt`
 
